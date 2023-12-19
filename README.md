@@ -4,6 +4,6 @@ This code remove dots from all filename that contain dots in name, not in extens
 
 1. put the file in the path
 2. type cd /filespath/
-3. type python3 tiraponto.py
+3. type python3 removedots.py
 
 done!
