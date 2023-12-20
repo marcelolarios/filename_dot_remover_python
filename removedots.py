@@ -1,7 +1,6 @@
 '''
 cd /filespath/
 python3 removedots.py
-
 '''
 import os
 import glob
